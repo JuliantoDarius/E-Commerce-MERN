@@ -8,6 +8,10 @@
   opacity: 0;
 }
 
+.swiper-button-disabled {
+  scale: 0;
+}
+
 .swiper-button-prev {
   transform: translateX(-50%);
 }

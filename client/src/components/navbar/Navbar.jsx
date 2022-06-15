@@ -22,7 +22,7 @@ const Navbar = ({ children, brand, brandLink }) => {
         </span>
       </div>
 
-      <div className="w-2/5 sm:w-2/5 flex justify-between sm:justify-evenly text-xl sm:text-2xl">
+      <div className="w-2/5 sm:w-2/5 flex justify-between sm:justify-evenly text-xl sm:text-2xl items-center">
         {children}
       </div>
     </nav>
